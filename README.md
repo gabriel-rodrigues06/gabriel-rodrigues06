@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Gabriel Rodrigues😁
 
  <div>
    <a href="https://github.com/gabriel-rodrigues06">
